@@ -1,0 +1,14 @@
+{
+  "name": "merkle-airdrop-algorand",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/42Principles/merkle-airdrop-algorand",
+  "author": "Vu Vo <vu.voth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@algo-builder/algob": "^3.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
+}
